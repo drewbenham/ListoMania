@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListMania</string>
+    <string name="edit_artist_name">Artist Name</string>
+    <string name="edit_album_name">Album Name</string>
+    <string name="release_date">Release Date</string>
+    <string name="new_music">New Music</string>
+    <string name="delete_music">Delete</string>
+    <string name="no_records">No Records Found</string>
+</resources>
